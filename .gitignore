@@ -1,0 +1,9 @@
+# Ignore paths that contain user-generated content.
+screenshots/*
+
+
+#Ignore PC project files
+######################
+/.idea
+.idea/**/*
+
