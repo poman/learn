@@ -6,4 +6,5 @@ screenshots/*
 ######################
 /.idea
 .idea/**/*
+instruction.py
 
